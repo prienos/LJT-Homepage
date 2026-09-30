@@ -1,6 +1,8 @@
 ---
 layout: single
 author_profile: true
+permalink: /
+title: "About"
 ---
 
 I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), [Hong Kong University of Science and Technology (HKUST)](https://www.hkust.edu.hk/), advised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024, where I was also previously advised by Prof. Junxian He during my undergraduate studies.
